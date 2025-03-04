@@ -300,4 +300,8 @@ void blinkLED(int times, int duration) {
       delay(duration);
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/main

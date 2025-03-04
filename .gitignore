@@ -56,4 +56,8 @@ sdkconfig.old
 # Environment variables and sensitive data
 .env
 *.key
+<<<<<<< HEAD
 *.pem
+=======
+*.pem
+>>>>>>> origin/main

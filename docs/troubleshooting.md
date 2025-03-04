@@ -114,4 +114,8 @@ Create a simple test program that only tests the bidirectional communication bet
 1. Upload a stripped-down test to both devices focusing only on message exchange
 2. Add debug prints to both devices to trace message flow
 3. Test with devices close together to rule out signal issues
+<<<<<<< HEAD
 4. Once bidirectional communication works, re-enable the full functionality
+=======
+4. Once bidirectional communication works, re-enable the full functionality
+>>>>>>> origin/main

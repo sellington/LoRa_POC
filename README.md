@@ -78,4 +78,8 @@ For common issues and solutions, refer to the [troubleshooting guide](docs/troub
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+This project is licensed under the MIT License - see the LICENSE file for details.
+>>>>>>> origin/main

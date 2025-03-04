@@ -95,4 +95,8 @@ This is a Proof of Concept implementation for a long-range communication system 
   - Verify base station is properly configured to receive and acknowledge messages
   - Test devices in close proximity to rule out signal strength issues
   - Potentially add debug messages to help trace communication flow
+<<<<<<< HEAD
   - Once basic communication works, optimize for power and range
+=======
+  - Once basic communication works, optimize for power and range
+>>>>>>> origin/main
